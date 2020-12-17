@@ -1,0 +1,35 @@
+body {
+
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-color: #464646;
+      background-size: contain;
+      background-attachment: fixed;
+}
+
+.placement {
+  position: relative;
+  top: 130px;
+  left: 800px;
+
+}
+
+
+
+  .center {
+    position: relative;
+    top: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerThis {
+  position: relative;
+  top: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 23%;
+}
